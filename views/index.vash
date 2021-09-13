@@ -78,7 +78,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
       <h1>Omar Imad AL-shaikhAli</h1>
-      <p>I'm <span class="typed" data-typed-items="Front-End Web Developer, Computer System Engenier,  Freelancer"></span></p>
+      <p>I'm <span class="typed" data-typed-items="Front-End React.JS Web Developer, Computer System Engineering,  Freelancer"></span></p>
     </div>
   </section><!-- End Hero -->
 
@@ -101,7 +101,7 @@
             <img src="https://lh3.googleusercontent.com/SpphIVq6CG9eQ3Ch9NBgoiDDOI6Cos4gsa71f5Vw56_F3R1cP0Tyw_CVSlW_qiMzqJ-YDuRbc5h9RR9bqdyT=w1366-h657-rw" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>FullStack Developer &amp; DevOps Engenier .</h3>
+            <h3>Front-End React.Js Developer &amp; Computer System Engenier .</h3>
             <p class="font-italic">
              
             </p>
